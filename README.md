@@ -1,5 +1,9 @@
 # D.W. Emacs Inspired by the Supernatural Show with Dean Winchester
 
+## Screenshot of Welcome Screen
+
+![D.W. Emacs Screen shot](./images/d-w-emacs-screenshot.png)
+
 ## Requirements
 
 - [JetBrains Mono Font](https://www.jetbrains.com/lp/mono/) - This is a free font you can download here. The font is specified in the init.el if you want to change it.
